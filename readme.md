@@ -1,6 +1,6 @@
 Library for animated adding products to cart
 
-Example
+#Example
 
 const animatedCart = new AnimatedCart();
 
