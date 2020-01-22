@@ -2,9 +2,9 @@ Library for animated adding products to cart
 
 #Example
 
-const cart = document.querySelector('#cart');
-const buttons = document.querySelectorAll('button');
-const imagesSelector = '.product img';
+const cart = document.querySelector('#cart'); <br/>
+const buttons = document.querySelectorAll('button'); <br/>
+const imagesSelector = '.product img'; <br/>
 
 const animatedCart = new AnimatedAdding(cart, imagesSelector, buttons);
 
