@@ -1,4 +1,6 @@
-/build
+build/css
+build/index.html
+build/img
 /node_modules
 /public
 webpack.config.js
