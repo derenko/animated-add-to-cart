@@ -73,9 +73,4 @@ class AnimatedAdding {
       });
     })
   }
-}
-
-const cart = document.querySelector('#cart');
-const buttons = document.querySelectorAll('button');
-
-const animatedCart = new AnimatedAdding(cart, '.product img', buttons);
+};
